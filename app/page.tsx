@@ -130,7 +130,7 @@ export default function SecurityQuestionsPage() {
 
           <button
             type="submit"
-            className="w-full bg-pink-600 text-white py-2.5 rounded-lg font-medium hover:bg-blue-700 transition"
+            className="w-full bg-pink-600 text-white py-2.5 rounded-lg font-medium hover:bg-pink-700 transition"
           >
             Submit
           </button>
